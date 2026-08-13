@@ -671,7 +671,7 @@ Responsiveness
 
 <a href="https://www.linkedin.com/in/karthikeyanchandru/">
 
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="44" height="44" alt="LinkedIn"/>
 
 <br>
 
