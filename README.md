@@ -94,7 +94,7 @@
 
 <div align="center">
 
-# 👨‍💻 KARTHIKEYAN C
+
 
 ### `DEVELOPER`  •  `BUILDER`  •  `CREATOR`
 
