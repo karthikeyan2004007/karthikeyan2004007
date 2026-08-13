@@ -1,18 +1,12 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                         HERO                                   -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:0F172A,65:1E3A8A,100:2563EB&height=270&section=header&text=KARTHIKEYAN%20C&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=37&desc=FULL-STACK%20DEVELOPER%20%7C%20JAVA%20DEVELOPER%20%7C%20PROBLEM%20SOLVER&descAlignY=62&descSize=17" width="100%"/>
 
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!--                    SOCIAL / CODING LINKS                       -->
+<!--                    SOCIAL & CODING LINKS                       -->
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
@@ -21,50 +15,57 @@
 
 <td align="center">
 <a href="https://github.com/karthikeyan2004007">
-<img src="https://cdn.simpleicons.org/github/FFFFFF" width="42"/>
-<br><sub><b>GitHub</b></sub>
+<img src="https://cdn.simpleicons.org/github/FFFFFF" width="44"/>
+<br>
+<sub><b>GitHub</b></sub>
 </a>
 </td>
 
 <td align="center">
 <a href="https://www.linkedin.com/in/karthikeyanchandru/">
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="42"/>
-<br><sub><b>LinkedIn</b></sub>
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="44"/>
+<br>
+<sub><b>LinkedIn</b></sub>
 </a>
 </td>
 
 <td align="center">
 <a href="https://www.geeksforgeeks.org/profile/karthikeyauyrc">
-<img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="42"/>
-<br><sub><b>GFG</b></sub>
+<img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="44"/>
+<br>
+<sub><b>GFG</b></sub>
 </a>
 </td>
 
 <td align="center">
 <a href="https://www.hackerrank.com/profile/karthikeyan20042">
-<img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="42"/>
-<br><sub><b>HackerRank</b></sub>
+<img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="44"/>
+<br>
+<sub><b>HackerRank</b></sub>
 </a>
 </td>
 
 <td align="center">
 <a href="https://leetcode.com/">
-<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="42"/>
-<br><sub><b>LeetCode</b></sub>
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="44"/>
+<br>
+<sub><b>LeetCode</b></sub>
 </a>
 </td>
 
 <td align="center">
 <a href="https://www.instagram.com/liftwithkarthi/">
-<img src="https://cdn.simpleicons.org/instagram/E4405F" width="42"/>
-<br><sub><b>Instagram</b></sub>
+<img src="https://cdn.simpleicons.org/instagram/E4405F" width="44"/>
+<br>
+<sub><b>Instagram</b></sub>
 </a>
 </td>
 
 <td align="center">
 <a href="mailto:karthikeyan2004007@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail/EA4335" width="42"/>
-<br><sub><b>Email</b></sub>
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="44"/>
+<br>
+<sub><b>Email</b></sub>
 </a>
 </td>
 
@@ -75,23 +76,15 @@
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!--                       TYPING                                   -->
+<!--                       TYPING ANIMATION                         -->
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=23&duration=2200&pause=700&color=00E5FF&center=true&vCenter=true&width=900&lines=👋+Hey%2C+I'm+Karthikeyan;☕+Java+Developer;⚛️+Full-Stack+Developer;🧠+DSA+%7C+Problem+Solver;🚀+Building+Real-World+Projects;💡+Turning+Ideas+Into+Code;🔥+Learn.+Build.+Break.+Repeat." alt="Typing Animation"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=23&duration=2200&pause=700&color=00E5FF&center=true&vCenter=true&width=900&lines=👋+Hey%2C+I'm+Karthikeyan;☕+Java+Developer;⚛️+Full-Stack+Developer;🎨+UI+%26+Animation+Enthusiast;🧠+DSA+%7C+Problem+Solver;🚀+Building+Interactive+Experiences;🔥+Learn.+Build.+Animate.+Repeat." alt="Typing Animation"/>
 
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=karthikeyan2004007&label=PROFILE+VIEWS&color=2563EB&style=for-the-badge"/>
-
- 
-
-<img src="https://img.shields.io/github/followers/karthikeyan2004007?label=FOLLOWERS&style=for-the-badge&color=6366F1"/>
-
- 
-
-<img src="https://img.shields.io/github/stars/karthikeyan2004007?label=STARS&style=for-the-badge&color=8B5CF6"/>
 
 </div>
 
@@ -103,17 +96,19 @@
 
 # 👨‍💻 KARTHIKEYAN C
 
-### `Developer`  •  `Builder`  •  `Problem Solver`
+### `DEVELOPER`  •  `BUILDER`  •  `CREATOR`
 
 <br>
 
-> **I don't just learn technologies.**
->
-> **I build things with them. 🚀**
+> **Turning code into experiences. 🚀**
 
 <br>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding Animation"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="430" alt="Developer Coding Animation"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=1800&pause=500&color=8B5CF6&center=true&vCenter=true&width=750&lines=Code+is+my+tool.;Creativity+is+my+interface.;Animation+is+my+interaction.;Learning+is+my+constant." />
 
 </div>
 
@@ -134,6 +129,7 @@
 🎓 IT Student
 ☕ Java Developer
 ⚛️ Full-Stack Developer
+🎨 UI Animation Enthusiast
 🧠 DSA Practitioner
 🚀 Project Builder
 📚 Lifelong Learner
@@ -143,15 +139,16 @@
 
 <td width="50%" valign="top">
 
-### 🎯 WHAT I DO
+### 🎯 WHAT I LOVE
 
 ```text
-→ Build Applications
-→ Solve Problems
-→ Learn Technologies
-→ Design Interfaces
-→ Work With APIs
-→ Build Real Projects
+→ Clean Interfaces
+→ Smooth Animations
+→ Problem Solving
+→ Java Development
+→ Full-Stack Applications
+→ Learning New Technology
+→ Building From Scratch
 ```
 
 </td>
@@ -165,9 +162,9 @@
 
 <div align="center">
 
-**Currently focused on becoming a stronger software developer through**
+### `CURRENT MISSION`
 
-`JAVA` • `DSA` • `REACT` • `BACKEND` • `DATABASES` • `REAL-WORLD PROJECTS`
+**Build better software. Design better experiences. Become a better developer.**
 
 </div>
 
@@ -186,7 +183,8 @@ public class Karthikeyan {
     String[] frontend = {
         "React",
         "Angular",
-        "Tailwind CSS"
+        "Tailwind CSS",
+        "GSAP"
     };
 
     String[] backend = {
@@ -199,15 +197,14 @@ public class Karthikeyan {
         "MySQL"
     };
 
-    String[] interests = {
-        "Software Development",
-        "Web Development",
-        "DSA",
-        "Problem Solving"
+    String[] animation = {
+        "GSAP",
+        "AOS",
+        "CSS Animations"
     };
 
     String mindset =
-        "Learn → Build → Debug → Improve";
+        "Learn → Build → Animate → Improve";
 
     boolean openToOpportunities = true;
 }
@@ -217,50 +214,66 @@ public class Karthikeyan {
 
 ---
 
-# ⚡ DEVELOPER SNAPSHOT
+# ⚡ MY DEVELOPER DNA
 
 <div align="center">
 
 <table>
 <tr>
 
-<td align="center" width="190">
+<td align="center" width="180">
 
 ## ☕
 
 ### JAVA
 
-`Primary Language`
+`CORE`
+
+Logic
+OOP
+DSA
 
 </td>
 
-<td align="center" width="190">
+<td align="center" width="180">
 
 ## ⚛️
 
 ### REACT
 
-`Frontend`
+`BUILD`
+
+Components
+Hooks
+UI
 
 </td>
 
-<td align="center" width="190">
+<td align="center" width="180">
 
-## ⚙️
+## 🎬
 
-### NODE.JS
+### GSAP
 
-`Backend`
+`ANIMATE`
+
+Motion
+Scroll
+Interaction
 
 </td>
 
-<td align="center" width="190">
+<td align="center" width="180">
 
 ## 🧠
 
 ### DSA
 
-`Problem Solving`
+`SOLVE`
+
+Logic
+Algorithms
+Optimization
 
 </td>
 
@@ -271,51 +284,95 @@ public class Karthikeyan {
 
 ---
 
-# 🧰 TECH ARSENAL
+# 🧰 TECH STACK
 
 <div align="center">
 
-### `PROGRAMMING`
+### `LANGUAGES`
 
-<img src="https://skillicons.dev/icons?i=java,js,html,css"/>
+<img src="https://skillicons.dev/icons?i=java,js,html,css" />
 
 <br><br>
 
 ### `FRONTEND`
 
-<img src="https://skillicons.dev/icons?i=react,angular,tailwind,bootstrap"/>
+<img src="https://skillicons.dev/icons?i=react,angular,tailwind,bootstrap,gsap" />
 
 <br><br>
 
 ### `BACKEND`
 
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 
 <br><br>
 
 ### `DATABASE`
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 
 <br><br>
 
-### `TOOLS & DEVOPS`
+### `TOOLS`
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" />
 
 </div>
 
 ---
 
-# 🎬 THE DEVELOPER LOOP
+# 🎨 ANIMATION ARSENAL
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=21&duration=1300&pause=400&color=00E5FF&center=true&vCenter=true&width=850&height=80&lines=LEARN+📚;PRACTICE+🧠;BUILD+🚀;BREAK+🐛;DEBUG+🔧;IMPROVE+⚡;REPEAT+🔁"/>
+### `I DON'T JUST BUILD UI — I MAKE IT MOVE.`
 
-<br><br>
+<br>
 
-### `BUILD → BREAK → DEBUG → IMPROVE → REPEAT`
+<table>
+<tr>
+
+<td align="center" width="220">
+
+### 🟢 GSAP
+
+**GreenSock Animation Platform**
+
+`Motion`
+`Timeline`
+`ScrollTrigger`
+
+</td>
+
+<td align="center" width="220">
+
+### ✨ AOS
+
+**Animate On Scroll**
+
+`Reveal`
+`Scroll`
+`Transitions`
+
+</td>
+
+<td align="center" width="220">
+
+### 🎨 CSS
+
+**Native Animation**
+
+`Transitions`
+`Transforms`
+`Keyframes`
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=19&duration=1400&pause=450&color=00FF9C&center=true&vCenter=true&width=850&height=100&lines=FADE+IN;SLIDE+UP;SCALE+UP;ROTATE;PARALLAX;SCROLLTRIGGER;MAKE+THE+INTERFACE+FEEL+ALIVE+⚡"/>
 
 </div>
 
@@ -325,153 +382,27 @@ public class Karthikeyan {
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=17&duration=1700&pause=600&color=00FF9C&center=true&vCenter=true&width=850&height=170&lines=%24+whoami;Karthikeyan+C+%7C+Full-Stack+Developer;%24+java+--version;Java+%7C+DSA+%7C+Backend;%24+npm+run+build;Building+something+awesome...;%24+git+commit+-m+%22keep+building%22;🚀+Successfully+shipped!"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=17&duration=1600&pause=500&color=00FF9C&center=true&vCenter=true&width=850&height=190&lines=%24+whoami;Karthikeyan+C;%24+role;Full-Stack+Developer;%24+skills;Java+%7C+React+%7C+Node+%7C+GSAP;%24+status;Building+something+awesome...;%24+git+status;Everything+is+under+control+🚀"/>
 
 </div>
 
 ---
 
-# 🚀 FEATURED PROJECTS
+# 🔄 THE BUILD LOOP
 
 <div align="center">
 
-<a href="https://github.com/karthikeyan2004007/Gym-Management">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=karthikeyan2004007&repo=Gym-Management&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/karthikeyan2004007/UID">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=karthikeyan2004007&repo=UID&theme=tokyonight&hide_border=true"/>
-</a>
-
-<br>
-
-<a href="https://github.com/karthikeyan2004007/npr-java-materials">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=karthikeyan2004007&repo=npr-java-materials&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### 🏥 PATIENT TRACKER
-
-`REACT` `NODE.JS` `EXPRESS` `MONGODB` `TAILWIND`
-
-**Full-stack patient management application**
-
-`CRUD` • `SEARCH` • `STATISTICS` • `ROUTING` • `RESPONSIVE UI`
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=21&duration=1200&pause=350&color=00E5FF&center=true&vCenter=true&width=850&height=90&lines=IDEA+💡;DESIGN+🎨;CODE+💻;ANIMATE+🎬;DEBUG+🐛;OPTIMIZE+⚡;SHIP+🚀"/>
 
 <br><br>
 
-### 💪 GYM MANAGEMENT
-
-`REACT` `JAVASCRIPT` `TAILWIND`
-
-**Modern fitness-focused web application**
-
-`UI` • `RESPONSIVE DESIGN` • `USER EXPERIENCE`
-
-<br><br>
-
-### ☕ JAVA TRAINING MATERIALS
-
-`JAVA` `DSA` `PROBLEM SOLVING`
-
-**Java learning and programming resource repository**
-
-`CONCEPTS` • `EXAMPLES` • `PRACTICE` • `TRAINING`
-
-</div>
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/karthikeyan2004007?tab=repositories">
-<img src="https://img.shields.io/badge/🚀%20EXPLORE%20ALL%20PROJECTS-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+### `IDEA → DESIGN → CODE → ANIMATE → DEBUG → SHIP`
 
 </div>
 
 ---
 
-# 🧠 CODING ANALYTICS
-
-<div align="center">
-
-### `PROBLEM SOLVING`
-
-<br>
-
-<a href="https://www.geeksforgeeks.org/profile/karthikeyauyrc">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Coding%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
- 
-
-<a href="https://www.hackerrank.com/profile/karthikeyan20042">
-<img src="https://img.shields.io/badge/HackerRank-Coding%20Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
-</a>
-
- 
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-Add%20Profile%20URL-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<br><br>
-
-### 🧩 THE GOAL
-
-**Solve → Understand → Optimize → Repeat**
-
-<br>
-
-> *Every problem solved is another step forward.* 🚀
-
-</div>
-
----
-
-# 📊 GITHUB ANALYTICS
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=karthikeyan2004007&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeyan2004007&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=karthikeyan2004007&theme=tokyonight&hide_border=true&background=0D1117"/>
-
-</div>
-
----
-
-# 📈 DEVELOPMENT ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=karthikeyan2004007&theme=tokyo-night&hide_border=true&area=true&custom_title=Karthikeyan's%20Development%20Activity" width="95%"/>
-
-</div>
-
----
-
-# 💻 LANGUAGE ANALYTICS
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeyan2004007&layout=donut&langs_count=10&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🎯 CURRENTLY LEVELING UP
+# 🧩 WHAT I'M LEARNING
 
 <div align="center">
 
@@ -479,7 +410,7 @@ public class Karthikeyan {
 
 <tr>
 
-<td align="center" width="220">
+<td align="center" width="230">
 
 ### ☕ JAVA
 
@@ -487,24 +418,12 @@ public class Karthikeyan {
 
 Collections
 OOP
+DSA
 Advanced Java
 
 </td>
 
-<td align="center" width="220">
-
-### 🧩 DSA
-
-`LOGIC → OPTIMIZATION`
-
-Arrays
-Strings
-HashMap
-Algorithms
-
-</td>
-
-<td align="center" width="220">
+<td align="center" width="230">
 
 ### ⚛️ REACT
 
@@ -517,6 +436,19 @@ State
 
 </td>
 
+<td align="center" width="230">
+
+### 🎬 GSAP
+
+`STATIC → MOTION`
+
+Timeline
+ScrollTrigger
+Micro-interactions
+Parallax
+
+</td>
+
 </tr>
 
 <tr>
@@ -525,7 +457,7 @@ State
 
 ### ⚙️ BACKEND
 
-`API → SYSTEMS`
+`API → SYSTEM`
 
 Node.js
 Express
@@ -535,26 +467,27 @@ REST APIs
 
 <td align="center">
 
-### 🗄️ DATABASE
+### 🧩 DSA
 
-`SQL → NOSQL`
+`LOGIC → OPTIMIZATION`
 
-MySQL
-MongoDB
-Data Modeling
+Arrays
+Strings
+HashMap
+Algorithms
 
 </td>
 
 <td align="center">
 
-### 🚀 PROJECTS
+### 🎨 UI/UX
 
-`IDEAS → PRODUCTS`
+`DESIGN → EXPERIENCE`
 
-Build
-Test
-Deploy
-Improve
+Layouts
+Motion
+Interaction
+Responsiveness
 
 </td>
 
@@ -566,7 +499,138 @@ Improve
 
 ---
 
-# 🧠 MY DEVELOPER PHILOSOPHY
+# 🧠 CODING JOURNEY
+
+<div align="center">
+
+### `PROBLEM`
+
+⬇️
+
+### `UNDERSTAND`
+
+⬇️
+
+### `CODE`
+
+⬇️
+
+### `DEBUG`
+
+⬇️
+
+### `OPTIMIZE`
+
+⬇️
+
+### `MASTER` 🧠
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=1500&pause=500&color=8B5CF6&center=true&vCenter=true&width=750&lines=Every+bug+teaches+something.;Every+problem+builds+logic.;Every+project+builds+experience." />
+
+</div>
+
+---
+
+# 🏆 CODING PROFILES
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center">
+
+<a href="https://www.geeksforgeeks.org/profile/karthikeyauyrc">
+
+<img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="55"/>
+
+<br><br>
+
+### GeeksforGeeks
+
+`DSA • Coding`
+
+</a>
+
+</td>
+
+<td align="center">
+
+<a href="https://www.hackerrank.com/profile/karthikeyan20042">
+
+<img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="55"/>
+
+<br><br>
+
+### HackerRank
+
+`Challenges`
+
+</a>
+
+</td>
+
+<td align="center">
+
+<a href="https://leetcode.com/">
+
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="55"/>
+
+<br><br>
+
+### LeetCode
+
+`Problem Solving`
+
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+### `SOLVE → UNDERSTAND → OPTIMIZE → REPEAT`
+
+</div>
+
+---
+
+# 🚀 WHAT I'M BUILDING MYSELF INTO
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=1500&pause=500&color=00E5FF&center=true&vCenter=true&width=850&height=120&lines=JAVA+DEVELOPER+☕;FULL-STACK+DEVELOPER+⚛️;UI+ANIMATION+DEVELOPER+🎬;PROBLEM+SOLVER+🧠;SOFTWARE+ENGINEER+IN+PROGRESS+🚀"/>
+
+<br><br>
+
+```text
+           JAVA
+             │
+             ▼
+          BACKEND
+             │
+             ▼
+          FULL-STACK
+             │
+             ▼
+        UI / ANIMATION
+             │
+             ▼
+       REAL EXPERIENCES
+             │
+             ▼
+       SOFTWARE ENGINEER 🚀
+```
+
+</div>
+
+---
+
+# 🌱 DEVELOPER PHILOSOPHY
 
 <div align="center">
 
@@ -576,7 +640,7 @@ Improve
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=1400&pause=500&color=8B5CF6&center=true&vCenter=true&width=800&height=90&lines=1%25+BETTER+EVERY+DAY;SMALL+STEPS+%3D+BIG+RESULTS;CONSISTENCY+%3E+MOTIVATION;KEEP+BUILDING+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=1400&pause=500&color=8B5CF6&center=true&vCenter=true&width=850&height=100&lines=1%25+BETTER+EVERY+DAY;CONSISTENCY+%3E+MOTIVATION;LEARNING+%3E+KNOWING;BUILDING+%3E+JUST+WATCHING;KEEP+MOVING+FORWARD+🚀"/>
 
 </div>
 
@@ -586,67 +650,123 @@ Improve
 
 <div align="center">
 
+<table>
+<tr>
+
+<td align="center">
+
 <a href="https://github.com/karthikeyan2004007">
-<img src="https://cdn.simpleicons.org/github/FFFFFF" width="45"/>
-</a>
 
-  
-
-<a href="https://www.linkedin.com/in/karthikeyanchandru/">
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="45"/>
-</a>
-
-  
-
-<a href="https://www.geeksforgeeks.org/profile/karthikeyauyrc">
-<img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="45"/>
-</a>
-
-  
-
-<a href="https://www.hackerrank.com/profile/karthikeyan20042">
-<img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="45"/>
-</a>
-
-  
-
-<a href="https://leetcode.com/">
-<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="45"/>
-</a>
-
-  
-
-<a href="https://www.instagram.com/liftwithkarthi/">
-<img src="https://cdn.simpleicons.org/instagram/E4405F" width="45"/>
-</a>
-
-  
-
-<a href="mailto:karthikeyan2004007@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail/EA4335" width="45"/>
-</a>
-
-</div>
+<img src="https://cdn.simpleicons.org/github/FFFFFF" width="42"/>
 
 <br>
 
-<div align="center">
+<b>GitHub</b>
 
-`GitHub`  •  `LinkedIn`  •  `GeeksforGeeks`  •  `HackerRank`  •  `LeetCode`  •  `Instagram`
+</a>
+
+</td>
+
+<td align="center">
+
+<a href="https://www.linkedin.com/in/karthikeyanchandru/">
+
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="42"/>
+
+<br>
+
+<b>LinkedIn</b>
+
+</a>
+
+</td>
+
+<td align="center">
+
+<a href="https://www.geeksforgeeks.org/profile/karthikeyauyrc">
+
+<img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="42"/>
+
+<br>
+
+<b>GFG</b>
+
+</a>
+
+</td>
+
+<td align="center">
+
+<a href="https://www.hackerrank.com/profile/karthikeyan20042">
+
+<img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="42"/>
+
+<br>
+
+<b>HackerRank</b>
+
+</a>
+
+</td>
+
+<td align="center">
+
+<a href="https://leetcode.com/">
+
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="42"/>
+
+<br>
+
+<b>LeetCode</b>
+
+</a>
+
+</td>
+
+<td align="center">
+
+<a href="https://www.instagram.com/liftwithkarthi/">
+
+<img src="https://cdn.simpleicons.org/instagram/E4405F" width="42"/>
+
+<br>
+
+<b>Instagram</b>
+
+</a>
+
+</td>
+
+<td align="center">
+
+<a href="mailto:karthikeyan2004007@gmail.com">
+
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="42"/>
+
+<br>
+
+<b>Email</b>
+
+</a>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
 ---
 
-# ⚡ THE FINAL COMMIT
+# ⚡ `KARTHIKEYAN.EXE`
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=21&duration=1700&pause=600&color=00E5FF&center=true&vCenter=true&width=850&height=140&lines=Karthikeyan.exe+is+running...;Loading+new+skills...;Compiling+new+ideas...;Building+new+projects...;Pushing+new+commits...;The+best+version+is+still+loading...+⚡"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=21&duration=1700&pause=550&color=00E5FF&center=true&vCenter=true&width=900&height=150&lines=Initializing+Karthikeyan.exe...;Loading+Java...+☕;Loading+React...+⚛️;Loading+GSAP...+🎬;Loading+Problem+Solving...+🧠;Loading+Creativity...+🎨;System+Ready...+🚀;The+best+version+is+still+loading..."/>
 
 <br><br>
 
-### `BUILD • LEARN • SOLVE • REPEAT`
+### `CODE • CREATE • ANIMATE • REPEAT`
 
 <br>
 
