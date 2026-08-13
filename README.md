@@ -23,7 +23,7 @@
 
 <td align="center">
 <a href="https://www.linkedin.com/in/karthikeyanchandru/">
-<img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="44" height="44" alt="LinkedIn"/>
 <br>
 <sub><b>LinkedIn</b></sub>
 </a>
